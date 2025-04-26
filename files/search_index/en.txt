@@ -1,0 +1,326 @@
+Kvisoft Flipbook Maker User Guide
+Copyright ® 2014 Kvisoft Corporation
+
+[Kvisoft Flipbook Maker Pro User Guide]
+
+Page 1
+
+Table of Content
+Welcome ....................................................................................................................................................................... 3 Key features .................................................................................................................................................................. 4 Before start ................................................................................................................................................................... 7 System requirement ............................................................................................................................................. 7 Purchase licenses.................................................................................................................................................. 7 Installation ............................................................................................................................................................ 8 Registration........................................................................................................................................................... 9 Part1: Main interface introduction............................................................................................................................. 10 1. Home Page...................................................................................................................................................... 10 2. Design Window............................................................................................................................................... 11 Part2: How to create/design/edit flash flipbook ........................................................................................................ 12 1. Import Files ..................................................................................................................................................... 12 Import Settings. .......................................................................................................................................... 12 Multi-language Version .............................................................................................................................. 13 2. Design Flipping Book ...................................................................................................................................... 14 Select Template .......................................................................................................................................... 14 Advanced Settings ...................................................................................................................................... 14 Set Language of Navigation ........................................................................................................................ 17 Page Arrangement ...................................................................................................................................... 19 Set Bookmarks ............................................................................................................................................ 19 Table of Contents........................................................................................................................................ 19 4. Preview Final Edition ...................................................................................................................................... 20 5. Publish Publications........................................................................................................................................ 20 Publish Options .......................................................................................................................................... 21 Batch Publish .............................................................................................................................................. 22 Publish as Video ......................................................................................................................................... 22 6. Share, deliver, and distribute created flipbook. ............................................................................................. 23 Part3: FAQ ................................................................................................................................................................... 25 Part4: Contact Us ........................................................................................................................................................ 27
+
+[Kvisoft Flipbook Maker Pro User Guide]
+
+Page 2
+
+Welcome
+
+Kvisoft Flipbook Maker is an easy to use yet powerful flip book making software. It just take a few clicks to make a flash flipbook, and then share online, distribute on mobile, deliver offline, and so on. Kvisoft Flipbook Maker, a helpful Flash & HTML5 page turning software, offers you a professional yet easy way to design 3D animated flipping page publications from PDF, Word, Excel, PowerPoint files, images and flash movies. A nice program for anyone to generate digital publishing creations like digital magazine, image gallery, flip catalog, e brochure, page turning eBooks, e-newspaper etc. And it is a handy tool for converting those copies to videos. Copyright ® 2014 Kvisoft Corporation. All rights reserved. No part of this publication may be reproduced or transmitted in any form or by any means, electronic or mechanical, including photocopying, recording or storing in a retrieval system, or translated into any language in any form without the express written permission of Kvisoft Corporation. The information contained in this manual is subject to change without notice and does not represent a commitment on the part of Kvisoft Corporation. The Kvisoft Flipbook Maker program and all files distributed with Kvisoft Flipbook Maker are the property of or distributed through a distribution license held by Kvisoft Corporation. Distribution in any modified form is expressly forbidden without written permission from Kvisoft Corporation, which shall not be unreasonable withheld. Any exploitation of Kvisoft Flipbook Maker for profit is forbidden without written permission from Kvisoft Corporation.
+
+[Kvisoft Flipbook Maker Pro User Guide]
+
+Page 3
+
+Key features
+Flash & HTML5 digital publications
+Digital publications can be created in HTML5 as well as flash. HTML5 format is the most popular format for mobile devices such as iPad, iPhone, iPod, and Android-powered devices. Mobile users can also get the digital experience from HTML5 publications with these features: watch videos, browse images, click links, listen music, etc.
+
+Digital Magazine in multi-languages
+Create flash flipping digital magazine in multi-languages to adapt for international readers around the world. After import all files with different languages, this digital magazine software will create one page flipping e-book that allows readers to select languages. It will save your time by avoiding duplicated edition for various versions.
+
+Support multiple types of files, PDF, PowerPoint, Word, Excel
+Besides importing PDF files, you also can import Office files (Word, Excel, PowerPoint), Flash movies (.flv, f4v, mp4 and .swf), and images (.jpg, .png, .bmp, .jpeg, gif) into page flipping pages. So, it would be a nice digital publishing tool to make digital flipping publications and video flash magazine.
+
+Bookcase for showing multiple online eBooks
+To show more online digital publications, you can use Bookcase tool of this Kvisoft HTML5 eBook software. By adding URLs and thumbnails of online publications, you can easily put multiple e-books on the built-in bookshelf next to the publication. So, more related e-books will get more exposure. It is a good chance for publishers to increase e-books sales or share more publications online.
+
+[Kvisoft Flipbook Maker Pro User Guide]
+
+Page 4
+
+Flexible publishing output formats options
+ SEO friendly HTML format for websites viewed on PC and MAC.  HTML5 format for viewing on mobile devices (iPhone, iPad, iPod Touch, and even Android-powered devices) So mobile users can also get the digital reading experience with all features like web version: watch videos, browse images, click links, listen music, etc.  APP, standalone executable file for MAC.  Standalone single wrapped SWF file.  Stand-alone EXE for CD delivery.  ZIP package for email or transferring.  Screen Saver (*.scr format flip album) for your computer.  Video in different formats.  Batch Publish Multiple files into one flip publication
+
+Excellent real-time preview function
+It provides three kinds of preview, flash based preview for web, HTML5 based preview for phone, HTML5 based preview for pad. You can confirm whether the flash magazines or HTML5 eBooks meet all effects you want before converting. This is for saving time to create stunning flip magazine.
+
+Google Analytics Integration
+Extend the power of Google Analytics in your digital publications. By inputting your Google Analytics account ID in the publishing flip book, you can monitor and analyze the traffic of your online flipping book with ease in your Google Analytics account live. Nice way to increase your marketing effectiveness using Google Analytics within the publications.
+
+Built-in FTP Uploader
+Flipbook Maker includes a built-in FTP Uploader. Once you have created the digital publication, you can upload the file to your FTP server directly by checking the “Upload the FTP” box and setting FTP Server Path, Port, and login account.
+
+[Kvisoft Flipbook Maker Pro User Guide]
+
+Page 5
+
+SEO Friendly
+All texts would be indexed by search engines after converting PDF to Flash magazines. The page flipping books are SEO friendly. You also can do in-page SEO optimization work (define page title and Meta data) for web and everyone can find your digital magazines via the internet.
+
+Social networks sharing
+The Flash flipping books created from PDF via Flipbook Maker provide means of integration with popular social network sites. Viewers can share the flash flipping book to Facebook, Twitter, LinkedIn, Digg and more sites. It also works for sending email or copy URL to others.
+
+Useful reader-friendly functions
+Allow your readers take actions on digital publications and keep the traces for them.  Readers’ bookmark. Bookmark function lets readers mark important pages, and quickly access to these pages next time.  Draw Brush function. Readers can make many different kinds of marks or highlight on the page content by this brush feature.  Text select/copy highlight. This text select function allows readers select and copy any text on the page.  Search and Zoom. Viewers can use the search function to find relevant messages from the e-publications. And they can zoom in/out the e-books to make reading more easily. This program is powerful and professional with rich functions, for other features, check this page http://www.kvisoft.com/flipbook-maker-pro/features/
+
+[Kvisoft Flipbook Maker Pro User Guide]
+
+Page 6
+
+Before start
+System requirement
+Basic:  1 GHz+ processor  512MB system memory  Windows XP or later  Adobe Flash Player 9  40 MB hard drive space for installation  1024x768 display Recommended:  2 GHz+ processor  1GB system memory .  Windows XP or later.  Adobe Flash Player 10  40 MB hard drive space for installation  Windows-compatible sound card
+
+Purchase licenses
+We offer 30 days free trial version which can be downloaded here. Trial version almost work same as purchased version except trial has watermark which can be removed once register with authorized license. After 30 days trial is over, if you want keep using it, please go to kvisoft website for ordering information and current pricing. Once you purchase Flip Book Maker Pro, you get these benefits:     Register with onetime charge license key. Remove the evaluation watermark from the output files. Use Lifetime full version forever. Get No-hassle e-mail response, tech solution and service support.
+
+If you have purchased Flip Book Maker Pro, you may register by instructions on the Registration page. If you do not wish to purchase Flip Book Maker Pro, simply uninstall it.
+
+[Kvisoft Flipbook Maker Pro User Guide]
+
+Page 7
+
+Installation
+After downloaded installation package, please double click to start installing as wizard. License Agreement. To use Flip Book Maker, you must agree to the terms of the license agreement. Read the terms of this agreement carefully, and check the option I accept the agreement and click < Next > to continue. If you do not agree, click < Cancel > to abort installation.
+
+Destination Folder. Specify the location to install the program to. If the default location is acceptable, click < Next >. Directly input an alternate location or click < Browse > to select a folder.
+
+Additional Options. This screen allows you to choose if you would like to add a Desktop icon and/or Quick Lunch link to your system.
+
+Ready to Install. When this screen appears, you are ready to install the Flipbook Maker . Click < Install > and wait for installation to complete.
+
+[Kvisoft Flipbook Maker Pro User Guide]
+
+Page 8
+
+Registration
+If you purchase Flipbook Maker, you will receive an email with Registration email address and keycode right away after this order is processed successfully. After registration, you're allowed to run Flipbook Maker as a fully-registered version. There are 2 ways to register: 1. Double click shortcut icon of our program on desktop. Log in window will pop up. Please enter your registration email address and keycode EXACTLY as same as what we sent. Please do not use your own email address. After input registration information, please click Register.
+
+2. If you already open the program and in its Design page, you can use the Help menu in left top corner, choose Help > Register.
+
+Then log in window will appear, please register as above first method. Note: 1. Multi use: Please note that normally 1 license is just for 1 computer. If you want to use our software in multi computer, please buy multi license package. 2. Change PC: If you want to change computer, please first uninstall it in your old computer, then install it in your new computer. 3. Reinstall Windows: If you reinstall your Windows, keycode can still work.
+
+[Kvisoft Flipbook Maker Pro User Guide]
+
+Page 9
+
+Part1: Main interface introduction
+1. Home Page
+
+1). Menu to start. New Project: Start a new flipbook project and import files. View Demo: Watch our online video on website. Open from File: Open saved flipbook project (*.fb file) from your PC. Batch Publish: Start to import several PDFs and do batch conversion. For more details, go to Batch Publish. 2). Recent Projects. Here list several projects you recently opened, click specific project name and continue to edit. 3). Tutorials, help, contact us, download resource. When you have no idea how to use this software, click tutorial title, it will redirect you to online tutorial which guide you step by step. 4). Project Manager. This section is for managing projects which are displaying as hardcover on the bookshelf. You can select a catalog from the drop-down menu and view projects under this catalog, or add / delete catalog. 5). Options for project. Delete: Delete selected project. Delete All: Delete all projects. New from Select: Start a new project based on the selected old project, so you could take old project as template. Edit: Continuous to edit selected project. Preview: View the selected project.
+[Kvisoft Flipbook Maker Pro User Guide] Page 10
+
+2. Design Window
+After import files, it will switch from home page to Design window as following picture:
+
+1). File menu.
+
+2). Help menu.
+
+3). Shortcut buttons.
+
+New: Start a totally new project. Open: Open saved project for editing continuously. Save: Save modification to current project. Preview: See final result of edition.
+
+Publish: Go to Publish window and output publication. There is an arrow on right side of Publish button. It will show submenus: Batch Publish / Publish as Video. Close project: Close the project which is being edited.
+
+4). Template. It shows various pre-designed template for users to build e-book in seconds. 5). Settings. Here, you can customize your book by optional settings. Get more details on page Advanced Settings. 6). Languages. This part is for setting language of navigation buttons and menus on the output flip book. 7). Viewing area. Click the bar on page edge to expand panel (which will hide tab of Page/Bookmarks/Contents). 8). Page. Here displays thumbnails of pages, you also can add / delete page(s), change thumbnails size, preview page(s), arrange order of pages. 9). Bookmarks. This panel allows you create or edit bookmarks. Check more details on Set Bookmarks chapter. 10). Contents. This panel enable you build or modify table of contents. Get more instruction on Table of Contents.
+[Kvisoft Flipbook Maker Pro User Guide] Page 11
+
+Part2: How to create/design/edit flash flipbook
+1. Import Files
+After click the New Project menu on home page, you could select a file and import it to the program. Support files include PDF, Office files (Word, Excel, PowerPoint), Flash movies (.flv, f4v, mp4 and .swf), and images (.jpg, .png, .bmp, .jpeg, gif).
+
+Import Settings.
+After selected the file you want to import, here is Import Files window:
+
+1) Source File path: Click the Browse icon to reset path of the file you want to import. 2) Page Rages. a. All Pages: import all pages. b. Custom: import some of pages. For example, '1, 3, 6’, meaning only importing page 1, 3 and 6, while '7-10' meaning importing from page 7 to 10. Check ‘Import first 10 pages for quick preview as you like. 3) Page Quality. High quality output large file, low quality output small file. Just choose what you need.
+[Kvisoft Flipbook Maker Pro User Guide] Page 12
+
+4) Book Size. Here you could set book size / cover size / pages size.
+
+5) Page Preview. After input number or adjust the bar under thumbnail, you could preview all pages. 6) Click 'Start' button to save your settings and import files to Kvisoft Flipbook Maker.
+
+Multi-language Version
+If your document has several versions with same content but in different languages, you could click the Multi-language button to import PDF in other languages.
+
+Then the software will automatic generate one flipbook in Multilanguage. Readers can switch languages freely during reading time.
+
+[Kvisoft Flipbook Maker Pro User Guide]
+
+Page 13
+
+2. Design Flipping Book
+Select Template
+Flipbook Maker offers you an easy way to make a Flash Flipping Book by using variety of flip book pre-set templates. Just click thumbnail on the left side, then you could view result on the right side.
+
+To save project, you could open it next time as customized template, and continue editing.
+
+Advanced Settings
+In Settings panel, there are plenty of options for you to custom and personalize your publication. It is divided into 4 categories, Main Settings, Book Settings, Brand Settings and Button Settings. Inputting words on the search box, it will help you to locate specific option quickly.
+
+Main Settings
+Magazine Name You can type to input the Magazine Name which will show on top of flipping book. By clicking Edit button, you can change title name, input URL which will be opened once readers click the magazine name, or set font/size/style/color etc.
+
+[Kvisoft Flipbook Maker Pro User Guide]
+
+Page 14
+
+Google Analytics By inputting your Google Analytics account ID in the publishing flip book, you can monitor and analyze the traffic of your online flipping book with ease in your Google Analytics account live. Nice way to increase your marketing effectiveness using Google Analytics within the publications. Mini Mode All buttons and tool bar/box are hidden, like:
+
+How to set mini mode? How to set mini mode? Please first check the box of Use MiniMini mode, then then set Width and Height. Please first check the box of Use mode, set Width and When adjust the w Height. When adjust the window of flipbook while viewers are reading, flipbook smalleristhan thethan defined size, it size, will show mini if size of is flipbook smaller the defined it will as show as mode. mini Hitthe Preview button to see its effect. mode. Hit the Preview button to see its effect. Password This feature allows you to protect privacy of your flipping book. You can set password from here, so who read this book should enter password beforehand. First tick the box of Use Password, next input password. By setting the number of Start Page, you could keep whole book or some pages confidential. Background There are 2 types for background: 1. Set background with single color, or mix another color by ticking box before 2nd color check. By 3rd check, you also can choose the way how color radial change, there're 3 selections: Radial, Linear-h and Linear-v. 2. Embed static or dynamic colorful background which adds fun and goo look to your flipbook. To change transparency of background, please adjust the bar. Tips: Add own background. You can add you own pictures as your background, just paste them into correct folders under background folder (where you install our program). Sound of background You can enable / disable page flip sound (the sound of flipping pages) or background sound (sound which playing during reading the whole book).Press Music Edit button, you could add your favorite music songs and do some simple modifications.
+[Kvisoft Flipbook Maker Pro User Guide] Page 15
+
+2. Advanced Settings.
+There a lot of options for setting your book, right to left, hard cover/page, animate corner in start(a flipping animation for book corner once open the book), center book when closed, landscape mode, opened book.
+
+Besides, you could set other settings about drag area, flip speed, page thickness, spine, reflection, auto play, etc.
+
+3. Brand Settings.
+For commercial publications, it is enhancement to brand your creations. Here, you could add logo and set preloader. Add Logo
+
+You can add your company logo which will stay beside book pages. To add logo, here are simple steps: a. Tick on Logo option. b. Click button to load your brand logo from local driver. c. Enter the link which will direct to the page when you click the logo. If you do not want it, just leave it blank. d. Set width and height of logo. e. Set position of logo: Left Top, Right Top, Left Bottom or Right Bottom, choose one. If you do not want to show logo, just tick the option of None.
+[Kvisoft Flipbook Maker Pro User Guide] Page 16
+
+Set Preloader When e-book is loading, a preloader will be showing on screen. Here you could directly select different types of preloader on the drop-down menu. By clicking the glass icon, you could view specify preloader effect and select the one you like.
+
+4. Button Settings.
+In this section, you could decide what button(s) should be displayed on navigation bar of published flipbook, by ticking box accordingly. To hidden button(s), just do not tick the box before options.
+
+Set Bookcase
+
+To add books to bookshelf, please follow these steps: a. Click Edit button, the bookcase edition window will pop up. b. The Bookcase window lists books profiles. You could add, delete, move up, and move down selected books. c. Hit the Add button, and then set bookcase property by inputting caption, book URL, thumbnail source path. 2 options are available for the way of opening book URL after clicking the book thumbnail on the shelf, new tab or current tab.
+
+Set Language of Navigation
+Languages panel is for setting the language of navigation buttons on output flipping publications.
+[Kvisoft Flipbook Maker Pro User Guide] Page 17
+
+Apply Pre-set Language
+Default language is English. If you want to change, there are some built-in translated languages for you to choose.
+
+en:English; fr: French; hr: Croatian; it: Italian; jp: Japanese; uk: English; af: Afrikaans; ba: Bashkir; de: German; ar: Arabic. You also can apply different font.
+
+Custom language of navigation buttons
+If the pre-set language you want is not included in the list, you can translate to it with language editor.
+
+Steps: 1.Click language button, language Edit window pop up. 2. Hit the Add button. 3. Please click drop-down menu to choose the language you want to add > You can copy from old language > Click the glass button to choose our built-in icon or use your own file from your computer as language icon > Click OK after finish setting. 4. Tick language on the LanguageEdit window to apply the added new navigation language.
+
+[Kvisoft Flipbook Maker Pro User Guide]
+
+Page 18
+
+Page Arrangement
+In the Page panel, it shows page thumbnails. Clicking on a thumbnail, its frame becomes red which means it is selected. Then you could:  Preview page(s). Once click the thumbnail, middle viewing area will display the whole page you selected.  Change thumbnails size. Thumbnails can be enlarged or shrink by the bar next to Delete button.  Add / Delete page(s). Use the Add button to add new page(s) or click Delete button to delete selected page.
+
+Set Bookmarks
+You can add / edit / delete bookmark here, and select different color for bookmarks.
+
+Table of Contents
+Program will load table of contents information automatically if your original PDF file has one. If not, you also can create table of contents in Contents panel with buttons as pictures shows. To edit content in this table, just simply click over the title or page column, then type title content and page number accordingly.
+
+[Kvisoft Flipbook Maker Pro User Guide]
+
+Page 19
+
+4. Preview Final Edition
+Click the Preview button on Design tab, to view final edition of your flipbook. It contains 3 preview results: HTML (Flash Based), Phone(HTML5 Based), Pad(HTML5 Based).
+
+5. Publish Publications
+After editing work is done, you could click Publish button on Design tab to set publishing options.
+
+[Kvisoft Flipbook Maker Pro User Guide]
+
+Page 20
+
+Publish Options
+Format setting. You could publish flipbook as HTML flash, HTML5 mobile, standalone SWF, EXE, APP, screen saver.  Flash based HTML format. This format is suitable for sharing e-book online, such as website page, blog, Facebook page, etc. Output includes folders and files. Adobe Flash Player 9.0 is required for readers.  HTML5 based mobile version. This program can output HTML5 flipbook which can be viewed on mobile devices, such as iPad/iPhone/iPod, Android Smartphone, Windows Phone, Windows 8 tablets, and so on.  Standalone SWF. Output only has one single SWF file which is suitable for both online or offline distribution.  EXE. Standalone executive document for Windows. It fits offline delivery, such as CD, DVD, USB drive, hard drive, etc.  APP. Standalone executive document for Mac. This format is for reading on Mac computers without internet.  Screen Saver. This software allows you to create a screensaver file (*.scr) so that you can use a flipbook as your computer screensaver. Path setting. Here you could define output file store path, and name of book/ output folder. After Publishing setting. For setting actions after published, just pick what you like. Available options including compressed to ZIP, upload to FTP, delete local copy after uploading. Advanced setting for HTML. By inputting title, keywords, description and script, it will make your HTML file more SEO friendly for search engines to crawl and get that information.
+
+[Kvisoft Flipbook Maker Pro User Guide]
+
+Page 21
+
+Batch Publish
+There is an arrow on right of Publish button on Design window, click it to select ‘Batch Publish’. Then use Add button to import multiple PDF files. To delete selected PDF, just hit the Delete icon. After finish other publish options and settings, press ‘Start’ button to do batch conversion.
+
+Publish as Video
+There is an arrow on right of Publish button on Design window, click it to select ‘Publish as Video’. After, you can set video format, resolution, file path, folder name, after publishing action, advanced setting. Finally, click ‘Start’ to convert flipbook to video.
+
+[Kvisoft Flipbook Maker Pro User Guide]
+
+Page 22
+
+6. Share, deliver, and distribute created flipbook.
+Now you are satisfied with your flip book and want to publish to share with others. There are many ways: Upload and host to online website: 1. Select HTML or SWF format option to publish your flipbook. 2. Upload to FTP. You could manually FTP the whole output folder to your website server. Or use the built-in option Upload to FTP. Then you could get URL for index.html or swf file. That is the URL of your online flipbook.
+
+3. If you want to embed flipbook into an exist page, get code from http://www.kvisoft.com/tutorials/publish-flipbook-online-when-you-have-no-site.html View on mobile devices: To make digital publications which can be viewed on mobile devices like iPhone, iPad, iPod and Android-powered devices, you just need to check mobile option when publishing, and then upload your publications to website, so people can visit that online flipbook on mobile devices with internet.
+
+[Kvisoft Flipbook Maker Pro User Guide]
+
+Page 23
+
+Social networks sharing: When viewers reading flipbook online, they can click the Share button on navigation bar, to share the flipping book to Facebook, Twitter, LinkedIn, Digg and more social sites or E-mail or copy it to others.
+
+Send eBook via email: 1. When in Publish window, check the option of Compressed to ZIP in After Publishing settings.
+
+2. Enclose zipped package in output folder to your email. 3. Send. Share it as ScreenSaver： Flip Book Maker allows you to create a screensaver file (*.scr) so that you can set a flip book as your desktop screensaver. In this way, you can also easily share your engaging flip book with anyone who can see your PC. Distribute via offline CD: You may burn output flipbooks to CD, or other storage devices, then distribute them offline. In this case, it is better to publish flipbook as EXE or SWF format.
+
+[Kvisoft Flipbook Maker Pro User Guide]
+
+Page 24
+
+Part3: FAQ
+ What is the requirement to run the software? It will run on any PC with Windows 7 / XP/ Vista 32-bit and 64-bit operating system. The minimum system requirements: 1 GHz CPU, 512 MB RAM and Adobe Flash Player 9. Recommended: 2 GHz CPU, 1 GB RAM and Adobe Flash Player 10 May I use Flip Book Maker for commercial purposes? Yes, you may sell your publications created by Flip Book Maker if you've already purchased the Commercial License. What is difference between Kvisoft Flipbook Maker regular and pro version? Please refer to this page: http://www.kvisoft.com/flipbook-maker/vs-pro/#tabs.  Can I buy one license and use it on multiple computers? No, 1 license for 1 computer only. If you want to apply multi user, please purchase multi licenses. How do I find out which version of Flip Book Maker I am using? You will find the version numbers at About page under Help menu in the upper right corner of the program. Why does Flip Book Maker prompt me to install Adobe Flash Player? Adobe Flash Player 9.0 or above is required. Without it, it may cause the failure of flip book creation. How to publish HTML5 Flipbook? In Publish window, select format options of Mobile(Based HTML5). How to batch publishing? In Design window, click arrow on right of Publish button, and select ‘Batch Publish’. Then import multiple PDF files. After finish other publish options and settings, press ‘Start’ button to do batch conversion. How to create bookcase? In Design window, open Settings tab, expand Button Settings panel, find bookcase option and click the next edit button to create bookcase.  How to create various publications versions in multi-language? Click the Multi-language button on Importing window, and then import PDF files in other languages. How to email e-book to others? Way No.1: Select Compressed to ZIP in publish tab, or pack it up manually. Then send the package via email. Way No.2: Upload and host flipbook on web server, email URL to recipients.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Kvisoft Flipbook Maker Pro User Guide]
+
+Page 25
+
+
+
+How can I upload flipbook to website? 1. Select HTML or SWF format option to publish your flipbook. 2. Upload to FTP. You could manually FTP the whole output folder to website server. Or use the built-in option Upload to FTP. Then you could get URL for index.html or swf file. That is the URL of your online flipbook. 3. If you want to embed flipbook into an exist page, get HTML code from http://www.kvisoft.com/tutorials/publish-flipbook-online-when-you-have-no-site.html
+
+
+
+How can I update? Click 'Check for update' under the Help menu, then 'Update' window pop up, please start the downloading process. It may automatically connect with the recently released version, please make sure that your network is fine. If you want update automatic, please tick box of Check for update when start the program. How to save and open flipbook project .fb files for further editing? On Design window, use the shortcut button Open/Save/Close Project to open/save/close unfinished edition, or select submenus under File menu.
+
+
+
+
+
+How to take old flipbook as template for new publications? If you save old flipbook project, then you could use the New From Select button on Home page to start a new project, then it will take saved project as template. Can I run flipbook on Mac? Yes, you can run finished flipbook on Mac, please publish as APP file, zip and transfer it to Mac computer for viewing. If you want to run this software on Mac, please use our Flipbook Maker for Mac version. Can I run flipbook on mobile? How to? Yes. Our flipbook support mobile devices, including iPhone, iPad, Android devices, etc. You could test with demos on our website. How to do it? Just check mobile option in the publish tab when outputting flipbook. After uploaded flipbook to website, then you can view it by visiting that site from browser in your mobile devices. How to embed flipbook to Wordpress? Please refer to this page for full steps in detail http://www.kvisoft.com/tutorials/how-to-embed-flipbook-on-wordpress.html. How to publish flipbook online if I do not own a website? You can upload your flipbook for online use with free online file uploading site like Dropbox, Google drive. Please refer to this page for specific steps: http://www.kvisoft.com/tutorials/publish-flipbook-online-when-you-have-no-site.html.
+
+
+
+
+
+
+
+
+
+[Kvisoft Flipbook Maker Pro User Guide]
+
+Page 26
+
+Part4: Contact Us
+Your satisfaction is very important for us. We always try our best to provide you with the best products and service. So, welcome to any question or suggestion about our products, websites and service. We promise you that we will deal with emails within 48 hours after receiving them. Please do not hesitate to contact us. Sales question, Email: sales#kvisoft.com (replace # to @) Customer service, E-mail: support#kvisoft.com (replace # to @)
+
+********** The end.
+
+[Kvisoft Flipbook Maker Pro User Guide]
+
+Page 27
+
